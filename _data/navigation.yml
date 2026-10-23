@@ -1,0 +1,6 @@
+# Main navigation links (rendered in the masthead)
+main:
+  - title: "Posts"
+    url: /
+  - title: "About"
+    url: /about/

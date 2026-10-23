@@ -1,0 +1,17 @@
+# Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local overrides
+_config.local.yml
